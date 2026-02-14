@@ -1,4 +1,5 @@
 # Mermaid Chart Editor
+## this README was Generated via AI
 
 A professional, feature-rich Mermaid diagram editor built with Next.js, React, and TypeScript. This project demonstrates modern web development practices including component architecture, real-time rendering, security implementation, and performance optimization.
 
